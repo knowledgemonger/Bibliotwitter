@@ -1,5 +1,8 @@
 # Bibliotwitter
-Forward reverse association counter for hashtags related to #datascience using Twitter API
+Forward reverse association counter for hashtags related to #datascience using Twitter API programed in Ruby
+
+I recommend the Codecademy lesson on the Twitter API as a starting point. The "twitter" wrapper library also makes implementaion a lot easier.
+
 In order to use this function you will need to install the twitter wrapper. On my mac this was as simple as typing the following into a terminal:
 sudo gem install twitter
 Other libraries may also need to be installed in a similar fashion "net" and maybe "oauth2"
